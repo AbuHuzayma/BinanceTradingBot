@@ -10,7 +10,6 @@ import ta
 import pandas as pd
 
 from logs import writeLog
-#https://www.youtube.com/watch?v=X50-c54BWV8
 
 
 client = Client(config.API_KEY, config.API_SECRET) #it takes two parameter, first one api_key and second api_secret_key, i will define that in configuration file
