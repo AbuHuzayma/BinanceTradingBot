@@ -12,7 +12,7 @@ And just active api as (Binance Website Requirements and Advices).
 - Create a Binance account.
 - Enable Two-factor Authentication.
 - Create a new API key.
-- Get a cryptocurrency. If its symbol is not in the default list, add it.
+- Get a cryptocurrency And update in each .py files.
 
 
 # Install this requirements to run the project :
